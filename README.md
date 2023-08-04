@@ -18,14 +18,14 @@ security breach in 2021.
 * For this study, I have focused just on data about U.S. citizens. From the original dataset I have deleted the phone numbers and email addresses and also, I have shuffled the the values from every column in order to not expose any real personal data. Also, I have shuffled the user_id for the exact same reason. **NO REAL PERSON CAN BE IDENTIFIED USING THIS STUDY.**
 
 * Atributtes of the dataset are:
-1. **uid** - User id
-2. **firstname** - Firstname of the user
-3. **lastname** - Lastname of the
-4. **gender** - Gender of the user
-5. **residence** - Residence state of the user
-6. **birthplace** - Birthplace state of the user
-7. **relationship** - Relationship status of the user
-8. **workplace** - Workplace of the user
+1. **uid** - User id;
+2. **firstname** - Firstname of the user;
+3. **lastname** - Lastname of the;
+4. **gender** - Gender of the user;
+5. **residence** - Residence state of the user;
+6. **birthplace** - Birthplace state of the user;
+7. **relationship** - Relationship status of the user;
+8. **workplace** - Workplace of the user.
 
 ## Related work
 
